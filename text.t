@@ -40,7 +40,6 @@
                 <img src="DUYGUVEMANTIK.jpg" class="duy ">
                 <a href="https://www.dr.com.tr/Kitap/Duygu-ve-Mantik/Yusuf-Deniz/Edebiyat/Roman/Turkiye-Roman/urunno=0001836956001 ">Satın AL</a>
                 <a href="duyug.html"> Alıntılara göz at</a>
-
                 <p> Duygu Ve Mantık... Bir kadının hayatı ve iç duygularıyla olan çelişkisi... Gerçekte yaşanılması gerekenin ne olduğunu anlamasına müsade etmeyen bir savaş. Hem aşk, hem kin, hem felsefe hemde ucuz bir mutlutuk. okunulması gereken bir kitap.
                     <br> <b> #bir okurun alıntısı</b>
                 </p>

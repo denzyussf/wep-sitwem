@@ -1,0 +1,65 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.resim {
+    width: 100%;
+    height: 500px;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.resim img {
+    width: 250px;
+    box-shadow: 4px 4px 4px 4px burlywood;
+    transition: width 3s;
+}
+
+.resim img:hover {
+    width: 100px;
+}
+
+.resim a {
+    font-size: x-large;
+    /* border: 1px solid rgb(40, 8, 99); */
+    border-radius: 2em;
+    color: #d5ff1c;
+    padding: 6px;
+    background-color: #815a27;
+    text-shadow: 2px 0px 3px yellow;
+    box-shadow: 6px 6px 6px 6px saddlebrown;
+}
+
+.alintilar {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    min-height: 500px;
+    background-color: burlywood;
+}
+
+.alintilar p {
+    width: 250px;
+    height: 200px;
+    margin-top: 12px;
+    text-align: center;
+    border: 2spx solid #09094e;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 40px;
+    margin: 0 auto;
+    margin-top: 17px;
+    overflow: auto;
+    padding: 9% 0;
+    background-color: white;
+    color: white;
+    text-shadow: 4px 0px 4px #e9e7e5;
+    transition: width 3s, color 2s;
+}
+
+.alintilar p:hover {
+    width: 350px;
+    color: black;
+}
